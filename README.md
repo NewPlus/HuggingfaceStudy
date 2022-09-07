@@ -10,6 +10,10 @@
     - 03 WordPiece model like BERT
     - 04 BPE model like GPT-2
     - 05 Unigram model like Albert
+- 02 Train Your Tokenizer / 02050
+    - 01 Preparing the dataset
+    - 02 Causal Language modeling
+    - 03 Masked language modeling
 
 ## Contents Code
 - Contents Number(2) / Current Process(3)
